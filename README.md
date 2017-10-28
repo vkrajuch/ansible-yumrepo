@@ -156,6 +156,7 @@ List of variables used by the role:
 # If set to true, the management mode is enabled. That means that all unmanaged
 # repos will be deleted). The best is to set it somewhere in a gobal variable
 # file shared in all plays of the playbook.
+# Test
 yumrepo_manage: false
 
 # Repository configuration
